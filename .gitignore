@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+models/medical-specialist/
+*.egg-info/
+.DS_Store
+*.zip
+
+
+PRESENTATION.md
+TEACHING_NOTES.md
